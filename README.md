@@ -1,5 +1,5 @@
 # codex-change
 
-~/.codex/auth.json.AAA
-~/.codex/auth.json.BBB
-~/.codex/auth.json.CCC
+~/.codex/auth.json.AAA<br>
+~/.codex/auth.json.BBB<br>
+~/.codex/auth.json.CCC<br>
